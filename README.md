@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-%230F172A.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC" alt="Tailwind CSS" />
 </p>
 
-Este proyecto es una aplicación móvil nativa desarrollada con **React Native** y **Expo **, estructurada bajo una arquitectura modular limpia (Clean Architecture) que desacopla la UI de la lógica de negocio mediante Hooks personalizados.
+Este proyecto es una aplicación móvil nativa desarrollada con **React Native** y **Expo**, estructurada bajo una arquitectura modular limpia que desacopla la UI de la lógica de negocio mediante Hooks personalizados.
 
 ---
 
